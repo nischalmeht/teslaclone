@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nischalmeht/teslaclone.git/static/css/main.826119a6.css",
+    "main.js": "/nischalmeht/teslaclone.git/static/js/main.f11d7f37.js",
+    "static/js/787.bb109dfd.chunk.js": "/nischalmeht/teslaclone.git/static/js/787.bb109dfd.chunk.js",
+    "index.html": "/nischalmeht/teslaclone.git/index.html",
+    "main.826119a6.css.map": "/nischalmeht/teslaclone.git/static/css/main.826119a6.css.map",
+    "main.f11d7f37.js.map": "/nischalmeht/teslaclone.git/static/js/main.f11d7f37.js.map",
+    "787.bb109dfd.chunk.js.map": "/nischalmeht/teslaclone.git/static/js/787.bb109dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826119a6.css",
+    "static/js/main.f11d7f37.js"
+  ]
+}
